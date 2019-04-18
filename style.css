@@ -1,0 +1,17 @@
+body{background-color: black;}
+h3{color: palegoldenrod; margin-left:40px;}
+p{color: wheat;
+    margin-left:40px;
+    margin-right:60px;
+    margin-top:60px;
+    margin-bottom:30px;}
+
+img{float: right;}
+
+#rcorners1{
+        border-radius:30px;
+        background-color:darkmagenta;
+        padding:20px;
+        width:400px;
+        height:500px;
+    }
