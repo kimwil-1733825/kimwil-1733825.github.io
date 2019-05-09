@@ -1,0 +1,57 @@
+body{
+    background-image: url('sky.jpg'); 
+    background-size:1445px 1300px;
+    background-repeat: no-repeat;
+}
+
+h2{ 
+    font-family: "papyrus";
+    color: aliceblue;
+    margin-left: 620px;   
+}
+
+legend{
+    color: orange;
+    font-size: 130%;
+    font-family: "copperplate";
+    border: 10px dashed darkgray;
+    padding: 20px;
+    background: white;
+    background-clip: border-box;
+}
+
+input[type=text]{ 
+    color: aquamarine;
+    border: 2px solid greenyellow;
+    font-family: "courier new";
+}
+
+input[type=password]{
+    border: 3px dotted mediumvioletred;
+    color: red;
+}
+
+fieldset{
+    color: pink;
+    font-family: "PT serif";
+    font-weight: bold;
+    border: 2px dotted red;
+}
+
+fieldset2{
+    color: lightsalmon;
+}
+
+fieldset2, field, label{
+      border: 2px solid red; 
+}
+
+#label{
+    border-collapse: collapse;
+}
+
+input,
+textarea,
+[text]{
+   caret-color: darkorange;
+}
